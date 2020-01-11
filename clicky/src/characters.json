@@ -1,0 +1,31 @@
+[
+  
+]
+
+
+[
+    {
+      "id": 1,
+      "name": "Mickey Mouse",
+      "image":
+        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fsecure.img1-fg.wfcdn.com%2Fim%2F33179025%2Fcompr-r85%2F1664%2F1664004%2Fmickey-mouse-life-size-cardboard-stand-up.jpg&imgrefurl=https%3A%2F%2Fwww.wayfair.com%2Ffurniture%2Fpdx%2Fadvanced-graphics-mickey-mouse-life-size-cardboard-stand-up-adv1206.html&docid=vDRVuZZ08aKPWM&tbnid=rbJB-F7UWxPojM%3A&vet=10ahUKEwiZh4zgu_zmAhXjqlkKHaq9ChsQMwizASgDMAM..i&w=1930&h=3200&bih=731&biw=1440&q=mickey%20mouse&ved=0ahUKEwiZh4zgu_zmAhXjqlkKHaq9ChsQMwizASgDMAM&iact=mrc&uact=8",
+      "occupation": "Mouse",
+      "location": "Disney"
+    },
+    {
+      "id": 2,
+      "name": "Donald Duck",
+      "image":
+        "http://localhost:3000/images/donald.jpeg",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image":
+        "clicky/src/images/minnie.jpeg",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    }
+  ]
